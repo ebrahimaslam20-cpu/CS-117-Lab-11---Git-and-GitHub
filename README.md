@@ -1,6 +1,4 @@
-
-
-\# Storage Estimator
+\# Storage Estimator - Conflict A
 
 
 
@@ -41,6 +39,4 @@ Student Name: Write Your Name Here
 Course: CS-117 Introduction to ICT
 
 Lab: Lab 11 - Git \& GitHub
-
-
 
